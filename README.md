@@ -46,7 +46,3 @@ Passionate AIML student with a strong foundation in machine learning, data analy
 - Traveling ✈️  
 - Watching Sci-Fi Movies 🎬  
 
----
-
-🔗 **Let's Connect!**  
-📩 Feel free to reach out for collaboration or discussion!  
