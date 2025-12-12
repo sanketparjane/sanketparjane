@@ -3,7 +3,7 @@
 Passionate AIML student with a strong foundation in machine learning, data analysis, and algorithm development. Enthusiastic about solving real-world problems through innovative AI solutions and eager to contribute to projects that merge technology and impact.
 
 ## 📧 Contact Information
-- **Email**: sanketparjane5@gmail.com  
+- **Email**: sanketparjane223@gmail.com  
 - **Phone**: +91 8830126588  
 - **Location**: Kopargaon, India  
 - **LinkedIn**: [linkedin.com/in/sanket-parjane-403824298](https://linkedin.com/in/sanket-parjane-403824298)  
