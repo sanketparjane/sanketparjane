@@ -1,48 +1,126 @@
-# 🚀 Sanket Parjane | BTech AIML
+🚀 Sanket Parjane | B.Tech AIML (Expected 2027)
 
-Passionate AIML student with a strong foundation in machine learning, data analysis, and algorithm development. Enthusiastic about solving real-world problems through innovative AI solutions and eager to contribute to projects that merge technology and impact.
+👋 Hi! I’m Sanket Parjane, a B.Tech student specializing in Artificial Intelligence & Machine Learning with hands-on experience in Java, Python, Machine Learning, and IBM Cloud (Watsonx.ai).
+I enjoy building real-world AI/ML solutions, cloud-based applications, and intelligent systems that create practical impact.
 
-## 📧 Contact Information
-- **Email**: sanketparjane223@gmail.com  
-- **Phone**: +91 8830126588  
-- **Location**: Kopargaon, India  
-- **LinkedIn**: [linkedin.com/in/sanket-parjane-403824298](https://linkedin.com/in/sanket-parjane-403824298)  
+🎯 Career Objective
 
-## 💻 Skills
-- **Programming**: C, C++, Java, Python, PHP  
-- **Web Development**: HTML, CSS Basics  
-- **Mobile Development**: Android  
-- **Other**: PPT & PDF Creation  
+Aspiring Software Developer / AI Intern seeking opportunities at IBM India to contribute to scalable, production-grade platforms while continuously learning modern software engineering and cloud technologies.
 
-## 🎓 Education
-- **Bachelor of Technology (AIML)** - Sanjivani University (09/2024 - Present)  
-- **Diploma in Computer Technology** - Government Polytechnic Ahmednagar (06/2021 - 06/2024)  
+🧠 Technical Skills
 
-## 💼 Work Experience
-### Internship - A2Z IT HUB PVT. LTD. (05/2023 - 08/2023)  
-- Learning Full-Stack Development  
+Programming Languages: Java, Python
 
-## 🏆 Certifications
-- **Cloud Fundamental (IBM)** (10/2024 - 11/2024)  
-- **DevOps Fundamental (IBM)** (12/2024 - 01/2025)  
-- **Predictive Modeling (IBM)** (03/2024 - 04/2024)  
+Core CS: Data Structures & Algorithms, Object-Oriented Programming, Design Patterns
 
-## 🛠️ Projects
-### 📚 Smart Library Management System (03/2024 - 05/2025)  
-- A web development project that manages the records of a library.  
+AI / ML: Supervised & Unsupervised Learning, Model Evaluation, Generative AI, RAG, Prompt Engineering
 
-### 🧅 Smart Onion Storage Warehouse (01/2025 - 05/2025)  
-- An IoT-based advanced storage system to monitor and control temperature, humidity, and gas levels in onion warehouses.  
-- Helps prevent spoilage by automating ventilation and alerting farmers when unsafe conditions arise.  
+Cloud & Platforms: IBM Cloud, Watsonx.ai Studio
 
-## 🌎 Languages
-- **English**: Full Professional Proficiency  
-- **Hindi**: Full Professional Proficiency  
-- **Marathi**: Native or Bilingual Proficiency  
-- **Korean**: Elementary Proficiency  
+Databases: Oracle (PL/SQL), SQL
 
-## 🎯 Interests
-- Reading 📖  
-- Traveling ✈️  
-- Watching Sci-Fi Movies 🎬  
+Tools: Git, Linux, CI/CD (basic), Docker (basic)
 
+Testing: Unit Testing (xUnit / JUnit – basic)
+
+🎓 Education
+
+B.Tech in Artificial Intelligence & Machine Learning
+Sanjivani University, Kopargaon
+📅 2024 – Present (Expected 2027)
+
+Diploma in Computer Technology
+Government Polytechnic, Ahilyanagar
+📅 2021 – 2024
+
+💼 Internship Experience
+🔹 AI & Cloud Intern — IBM SkillsBuild
+
+Edunet Foundation & AICTE | Jul 2025 – Aug 2025
+
+Worked on IBM Cloud and Watsonx.ai services
+
+Built and evaluated machine learning models and AI agents
+
+Hands-on experience with Prompt Engineering and RAG-based systems
+
+🔹 Generative AI Intern — Google Cloud (Virtual)
+
+NASSCOM | Jul 2025 – Aug 2025
+
+Learned fundamentals of Generative AI and Large Language Models
+
+Applied prompt engineering techniques to solve real-world use cases
+
+🛠️ Projects
+🌾 AI Agent for Smart Farming (Watsonx.ai, RAG)
+
+Developed a RAG-based AI agent to provide real-time agricultural advice
+
+Integrated data from weather forecasts, soil conditions, crop recommendations, pest control, and market prices
+
+Achieved approximately 90% accuracy in recommendations
+Tech Stack: Python, Watsonx.ai, RAG, IBM Cloud
+
+🧅 Smart Onion Storage Warehouse (IoT + ML)
+
+Designed an IoT-based monitoring system for temperature, humidity, and gas levels
+
+Automated ventilation control to reduce spoilage and post-harvest losses
+
+Implemented real-time alerts for unsafe environmental conditions
+Tech Stack: IoT Sensors, Python, Machine Learning
+
+🌱 Crop Recommendation System (IBM Cloud)
+
+Built an ML model to recommend suitable crops based on soil parameters
+
+Deployed and tested the model using Watsonx.ai Studio
+Tech Stack: Python, IBM Cloud, Machine Learning
+
+🏠 House Price Prediction (Machine Learning)
+
+Implemented an end-to-end ML pipeline including:
+
+Data preprocessing
+
+Model training
+
+Model evaluation
+Tech Stack: Python, Machine Learning
+
+🏆 Certifications
+
+Software Engineering – NPTEL
+
+Database Management Systems – NPTEL
+
+Getting Started with Artificial Intelligence – IBM
+
+Watson Studio – IBM
+
+Journey to Cloud – IBM
+
+Cloud Fundamentals – IBM
+
+🏅 Achievement
+
+Identified and responsibly disclosed an AI prompt-handling vulnerability through ethical testing
+
+🌎 Languages
+
+English – Professional Proficiency
+
+Hindi – Native / Bilingual Proficiency
+
+Marathi – Native / Bilingual Proficiency
+
+📬 Contact
+
+📧 Email: sanketparjane223@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/sanket-parjane-21242044
+
+⭐ If you like my work
+
+Feel free to star ⭐ the repository or connect with me on LinkedIn!
