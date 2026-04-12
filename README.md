@@ -4,7 +4,7 @@
 
 I’m a B.Tech student specializing in Artificial Intelligence & Machine Learning (Expected 2027), with a strong focus on **Agentic AI, Generative AI, and real-world ML systems**.
 
-I enjoy building intelligent systems that go beyond static models — especially **AI agents, RAG pipelines, and multi-agent architectures** that solve practical problems.
+I enjoy building intelligent systems that go beyond static models especially **AI agents, RAG pipelines, and multi-agent architectures** that solve practical problems.
 
 ---
 
