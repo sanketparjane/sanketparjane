@@ -1,126 +1,77 @@
-🚀 Sanket Parjane | B.Tech AIML (Expected 2027)
+Sanket Parjane – AI/ML & Agentic AI Developer
+👋 About Me
 
-👋 Hi! I’m Sanket Parjane, a B.Tech student specializing in Artificial Intelligence & Machine Learning with hands-on experience in Java, Python, Machine Learning, and IBM Cloud (Watsonx.ai).
-I enjoy building real-world AI/ML solutions, cloud-based applications, and intelligent systems that create practical impact.
+I’m a B.Tech student specializing in Artificial Intelligence & Machine Learning (Expected 2027), with a strong focus on Agentic AI, Generative AI, and real-world ML systems.
 
-🎯 Career Objective
+I enjoy building intelligent systems that go beyond static models — especially AI agents, RAG pipelines, and multi-agent architectures that solve practical problems.
 
-Aspiring Software Developer / AI Intern seeking opportunities at IBM India to contribute to scalable, production-grade platforms while continuously learning modern software engineering and cloud technologies.
+🧠 What I Work On
+🤖 Agentic AI Systems (ReAct, Multi-Agent workflows)
+🔍 Retrieval-Augmented Generation (RAG)
+📊 Machine Learning & Data Analysis
+☁️ Cloud-based AI Solutions (IBM Cloud, GCP, AWS)
+🧩 LLM Evaluation & Prompt Engineering
+🛠️ Tech Stack
+💻 Languages
+Python
+C / C++
+📚 Core Concepts
+Data Structures & Algorithms
+Object-Oriented Programming
+🤖 AI/ML
+Machine Learning (EDA, Feature Engineering, Model Training)
+Deep Learning (TensorFlow, PyTorch)
+Generative AI & LLMs
+Prompt Engineering
+Fine-tuning
+⚙️ Tools & Frameworks
+LangChain
+Streamlit
+Groq (LLaMA models)
+Scikit-learn, Pandas, NumPy
+☁️ Cloud & Platforms
+IBM Cloud (Watsonx.ai)
+Google Cloud Platform (GCP)
+AWS
+Streamlit Cloud
+🗄️ Databases
+SQL
+Vector Databases
+💼 Experience
+🧑‍💻 Post LLM-Training Intern – Ethera AI
+Evaluated LLM outputs using structured evaluation frameworks
+Focused on instruction-following, factuality, and response quality
+Created audit-ready justifications for improving AI systems
+☁️ AI & Cloud Intern – IBM SkillsBuild
+Worked with Watsonx.ai and IBM Cloud
+Built ML models and RAG-based AI solutions
+Hands-on with prompt engineering
+🤖 Generative AI Intern – Google Cloud (NASSCOM)
+Learned LLM fundamentals and ML concepts
+Applied prompt engineering to real-world scenarios
+📌 Projects
+🌾 AI Agent for Smart Farming (RAG)
+Built an AI agent providing agricultural advice
+Uses real-time data: weather, soil, crops, pests, market
+🏠 AI-Assisted Property Valuation (MCP)
+Developed valuation system using Model Context Protocol
+Uses GenAI for reasoning + controlled execution via APIs
+📈 Agentic AI Multi-Agent Financial System
+Built multi-agent system using LangChain + Groq (LLaMA 3)
+Integrated real-time stock data via yFinance
+Automated financial analysis & decision workflows
+Deployed using Streamlit with:
+Interactive visualizations (Plotly, Matplotlib)
+Dynamic PDF report generation
+🏆 Achievement
+Conducted security testing on Perplexity AI using advanced prompt engineering
+Successfully identified and reported a safety loophole
+Contributed to improving system robustness
+🎯 Career Goal
 
-🧠 Technical Skills
+To work as an Agentic AI Engineer, building scalable, production-grade AI systems that combine reasoning, autonomy, and real-world data.
 
-Programming Languages: Java, Python
-
-Core CS: Data Structures & Algorithms, Object-Oriented Programming, Design Patterns
-
-AI / ML: Supervised & Unsupervised Learning, Model Evaluation, Generative AI, RAG, Prompt Engineering
-
-Cloud & Platforms: IBM Cloud, Watsonx.ai Studio
-
-Databases: Oracle (PL/SQL), SQL
-
-Tools: Git, Linux, CI/CD (basic), Docker (basic)
-
-Testing: Unit Testing (xUnit / JUnit – basic)
-
-🎓 Education
-
-B.Tech in Artificial Intelligence & Machine Learning
-Sanjivani University, Kopargaon
-📅 2024 – Present (Expected 2027)
-
-Diploma in Computer Technology
-Government Polytechnic, Ahilyanagar
-📅 2021 – 2024
-
-💼 Internship Experience
-🔹 AI & Cloud Intern — IBM SkillsBuild
-
-Edunet Foundation & AICTE | Jul 2025 – Aug 2025
-
-Worked on IBM Cloud and Watsonx.ai services
-
-Built and evaluated machine learning models and AI agents
-
-Hands-on experience with Prompt Engineering and RAG-based systems
-
-🔹 Generative AI Intern — Google Cloud (Virtual)
-
-NASSCOM | Jul 2025 – Aug 2025
-
-Learned fundamentals of Generative AI and Large Language Models
-
-Applied prompt engineering techniques to solve real-world use cases
-
-🛠️ Projects
-🌾 AI Agent for Smart Farming (Watsonx.ai, RAG)
-
-Developed a RAG-based AI agent to provide real-time agricultural advice
-
-Integrated data from weather forecasts, soil conditions, crop recommendations, pest control, and market prices
-
-Achieved approximately 90% accuracy in recommendations
-Tech Stack: Python, Watsonx.ai, RAG, IBM Cloud
-
-🧅 Smart Onion Storage Warehouse (IoT + ML)
-
-Designed an IoT-based monitoring system for temperature, humidity, and gas levels
-
-Automated ventilation control to reduce spoilage and post-harvest losses
-
-Implemented real-time alerts for unsafe environmental conditions
-Tech Stack: IoT Sensors, Python, Machine Learning
-
-🌱 Crop Recommendation System (IBM Cloud)
-
-Built an ML model to recommend suitable crops based on soil parameters
-
-Deployed and tested the model using Watsonx.ai Studio
-Tech Stack: Python, IBM Cloud, Machine Learning
-
-🏠 House Price Prediction (Machine Learning)
-
-Implemented an end-to-end ML pipeline including:
-
-Data preprocessing
-
-Model training
-
-Model evaluation
-Tech Stack: Python, Machine Learning
-
-🏆 Certifications
-
-Software Engineering – NPTEL
-
-Database Management Systems – NPTEL
-
-Getting Started with Artificial Intelligence – IBM
-
-Watson Studio – IBM
-
-Journey to Cloud – IBM
-
-Cloud Fundamentals – IBM
-
-🏅 Achievement
-
-Identified and responsibly disclosed an AI prompt-handling vulnerability through ethical testing
-
-🌎 Languages
-
-English – Professional Proficiency
-
-Hindi – Native / Bilingual Proficiency
-
-Marathi – Native / Bilingual Proficiency
-
-📬 Contact
-
+📫 Connect With Me
 📧 Email: sanketparjane223@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/sanket-parjane-21242044
-
-⭐ If you like my work
-
-Feel free to star ⭐ the repository or connect with me on LinkedIn!
+🔗 LinkedIn: https://www.linkedin.com/in/sanket21242044
+💻 GitHub: https://github.com/sanketparjane
