@@ -2,54 +2,115 @@
 
 **AI Automation & Agentic Systems Builder | B.Tech AIML Student**
 
-[cite_start]I specialize in designing and deploying workflow-based applications using Agentic Frameworks, n8n, APIs, and LLMs[cite: 232]. [cite_start]I am highly focused on rapid prototyping and building event-driven systems that significantly improve operational efficiency and execution speed[cite: 233, 234, 235]. 
+I specialize in designing and deploying workflow-based applications using Agentic Frameworks, n8n, APIs, and LLMs. I am highly focused on rapid prototyping and building event-driven systems that improve operational efficiency and execution speed.
 
-[cite_start]Currently, I am in my second year of my B.Tech in Artificial Intelligence & Machine Learning[cite: 237], maintaining a 7.36 CGPA. Alongside my coursework, I am finalizing a research paper for submission to the ICACCN2026 conference, applying for the Trust Lab Summer Internship at IIT Bombay, and initiating the documentation process for my first technical framework patent.
-
----
-
-### 🛠️ Technical Arsenal
-
-* [cite_start]**Programming & Databases:** Python, SQL (Oracle) [cite: 242, 246]
-* [cite_start]**AI & Agentic Frameworks:** LangGraph, CrewAI, AutoGen, OpenClaw, LangChain [cite: 247, 249]
-* [cite_start]**Core Concepts:** RAG, LLM-based Systems, Prompt Engineering, MCP (Model Context Protocol) [cite: 249]
-* [cite_start]**Automation & Integration:** n8n, Webhooks, APIs, JSON [cite: 243, 250]
-* [cite_start]**Cloud & DevOps:** IBM Cloud, Watsonx.ai Studio, GCP, GitHub, Terraform [cite: 244, 251]
-* [cite_start]**Data & UI:** Streamlit, Pandas, NumPy [cite: 250]
+Currently, I am pursuing my second year of B.Tech in Artificial Intelligence & Machine Learning with a CGPA of 7.36. Alongside my coursework, I am preparing a research paper for submission to the ICACCN 2026 conference, applying for the Trust Lab Summer Internship at IIT Bombay, and initiating the documentation process for my first technical framework patent.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technical Arsenal
 
-* **Agent AI Driven Multiagent Framework for Financial Data Analysis**
-    [cite_start]Architected a multi-agent Re-Act workflow using LangChain and Groq LLM to orchestrate specialized AI agents for automated financial decision-making[cite: 278]. [cite_start]Built a data pipeline with yFinance to calculate risk metrics, deployed on Streamlit Cloud with dynamic PDF reporting capabilities[cite: 279, 280]. 
-* **AI Agent for Sanjivani University**
-    [cite_start]Designed an event-driven WhatsApp automation system using n8n and the Twilio API[cite: 269, 270]. [cite_start]Built multi-step workflow pipelines integrating ChatGPT and Google Search, which reduced manual query handling by 80% and improved response times from minutes to seconds[cite: 271, 273].
-* **AI-Assisted Property Valuation using MCP**
-    [cite_start]Developed an AI-assisted valuation system utilizing multiple agents (Workflow, Data Collector, Vision, Valuation) to estimate market values based on surroundings and infrastructure[cite: 274, 275, 276].
-* **AI Agent for Smart Farming Advice**
-    Constructed an AI-powered farming assistant using RAG (IBM Granite) to deliver real-time, localized agricultural advice based on weather and soil data[cite: 281, 283, 284]. 
+### 💻 Programming & Databases
+- Python
+- SQL (Oracle)
+
+### 🤖 AI & Agentic Frameworks
+- LangGraph
+- CrewAI
+- AutoGen
+- OpenClaw
+- LangChain
+
+### 🧠 Core Concepts
+- RAG (Retrieval-Augmented Generation)
+- LLM-based Systems
+- Prompt Engineering
+- MCP (Model Context Protocol)
+
+### ⚡ Automation & Integration
+- n8n
+- Webhooks
+- APIs
+- JSON
+
+### ☁️ Cloud & DevOps
+- IBM Cloud
+- Watsonx.ai Studio
+- Google Cloud Platform (GCP)
+- GitHub
+- Terraform
+
+### 📊 Data & UI
+- Streamlit
+- Pandas
+- NumPy
 
 ---
 
-### 💼 Experience
+## 🚀 Featured Projects
 
-* [cite_start]**Post LLM-training Intern** @ *Ethera-ai* (Jan 2026 - Apr 2026) [cite: 264, 265]
-    [cite_start]Evaluated and enhanced LLM outputs through structured evaluations, focusing on instruction-following and factuality to generate audit-ready justifications[cite: 266, 267].
-* [cite_start]**Generative AI Intern** @ *Google Cloud via NASSCOM* (Jul 2025 - Aug 2025) [cite: 258, 259]
-    [cite_start]Applied prompt engineering techniques and learned core LLM and Generative AI fundamentals[cite: 260, 261].
-* [cite_start]**AI & Cloud Intern** @ *IBM Skills Build* (Jul 2024 - Aug 2024) [cite: 253, 254]
-    [cite_start]Gained practical experience in building and evaluating ML models and RAG-based AI agents using IBM Cloud services[cite: 255, 256, 257].
+### 🔹 Agent AI-Driven Multi-Agent Framework for Financial Data Analysis
+- Architected a multi-agent ReAct workflow using LangChain and Groq LLM for automated financial analysis and decision-making.
+- Developed a financial data pipeline using yFinance to calculate risk metrics and generate analytical insights.
+- Deployed the application on Streamlit Cloud with dynamic PDF reporting capabilities.
+
+### 🔹 AI Agent for Sanjivani University
+- Designed an event-driven WhatsApp automation system using n8n and Twilio API.
+- Built multi-step workflow pipelines integrating ChatGPT and Google Search.
+- Reduced manual query handling by 80% and improved response time from minutes to seconds.
+
+### 🔹 AI-Assisted Property Valuation using MCP
+- Developed an AI-assisted valuation system using multiple specialized agents, including Workflow, Data Collector, Vision, and Valuation agents.
+- Estimated property market value based on infrastructure, surroundings, and environmental analysis.
+
+### 🔹 AI Agent for Smart Farming Advice
+- Built an AI-powered farming assistant using RAG and IBM Granite Models.
+- Delivered real-time and localized agricultural guidance using weather and soil-related data.
 
 ---
 
-### 🏆 Achievements
+## 💼 Experience
 
-* [cite_start]**Ethical Security Research (Perplexity AI):** Conducted advanced prompt-engineering security testing on Perplexity AI, successfully bypassing safety guardrails[cite: 286, 287]. [cite_start]Responsibly reported the critical loophole directly to CEO Aravind Srinivas, aiding in prompt security enhancements[cite: 288].
+### 🔹 Post LLM-Training Intern — Ethera-ai  
+**Jan 2026 – Apr 2026**
+- Evaluated and improved LLM-generated outputs using structured assessment methodologies.
+- Focused on instruction-following accuracy, factual correctness, and audit-ready justifications.
+
+### 🔹 Generative AI Intern — Google Cloud via NASSCOM  
+**Jul 2025 – Aug 2025**
+- Learned core concepts of Generative AI and Large Language Models.
+- Applied prompt engineering techniques in practical AI use cases.
+
+### 🔹 AI & Cloud Intern — IBM SkillsBuild  
+**Jul 2024 – Aug 2024**
+- Built and evaluated machine learning models and RAG-based AI agents.
+- Worked with IBM Cloud services and AI development tools.
 
 ---
 
-### 📫 Let's Connect
+## 🏆 Achievements
 
-* [cite_start]**Email:** sanketparjane223@gmail.com [cite: 229]
-* [cite_start]**LinkedIn:** [linkedin.com/in/sanket21242044](https://www.linkedin.com/in/sanket21242044) [cite: 229]
+### 🔹 Ethical Security Research — Perplexity AI
+- Conducted advanced prompt-engineering security testing on Perplexity AI systems.
+- Identified and responsibly reported critical safety loopholes to CEO Aravind Srinivas.
+- Contributed to improving prompt security and safety guardrails.
+
+---
+
+## 📚 Research & Interests
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Workflow Automation
+- AI Security & Prompt Injection Research
+- RAG Systems
+- AI Infrastructure & Operational Systems
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: sanketparjane223@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sanket21242044
+
+---
+⭐ Exploring the future of Agentic AI, Automation, and Intelligent Operational Systems.
