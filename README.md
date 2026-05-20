@@ -4,7 +4,7 @@
 
 I specialize in designing and deploying workflow-based applications using Agentic Frameworks, n8n, APIs, and LLMs. I am highly focused on rapid prototyping and building event-driven systems that improve operational efficiency and execution speed.
 
-Currently, I am pursuing my second year of B.Tech in Artificial Intelligence & Machine Learning with a CGPA of 7.36. Alongside my coursework, I am preparing a research paper for submission to the ICACCN 2026 conference, applying for the Trust Lab Summer Internship at IIT Bombay, and initiating the documentation process for my first technical framework patent.
+Currently, I am pursuing my second year of B.Tech in Artificial Intelligence & Machine Learning . Alongside my coursework, I am preparing a research paper for submission to the ICACCN 2026 conference, applying for the Trust Lab Summer Internship at IIT Bombay, and initiating the documentation process for my first technical framework patent.
 
 ---
 
