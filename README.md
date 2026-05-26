@@ -12,6 +12,7 @@ Currently, I am pursuing my second year of B.Tech in Artificial Intelligence & M
 
 ### 💻 Programming & Databases
 - Python
+- Java
 - SQL (Oracle)
 
 ### 🤖 AI & Agentic Frameworks
